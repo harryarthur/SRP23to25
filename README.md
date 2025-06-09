@@ -1,11 +1,11 @@
-# 🏉 Super Rugby Referee Nationality Analysis (2023–2025)
+# Super Rugby Referee Nationality Analysis (2023–2025)
 
 This Jupyter Notebook investigates whether **referee nationality** may influence **match outcomes** in Super Rugby Pacific across the 2023, 2024, and 2025 seasons.
 
 **Main question:**  
 *Can referee nationality help predict match outcomes in Super Rugby?*
 
-### 🧪 What’s inside
+### What’s inside
 The analysis covers:
 - Data scraping and preprocessing from Wikipedia
 - Feature engineering (e.g. referee/team nationality alignment, home advantage)
@@ -15,10 +15,10 @@ The analysis covers:
 - Bootstrapping to validate findings
 - Visualizations to make trends pop
 
-### 🔍 Key finding (spoiler alert!)
+### Key finding (spoiler alert!)
 There’s a **noticeable statistical trend in 2025** suggesting teams may have fared better when referees were from the same country. While this doesn’t confirm bias or causation, it’s an interesting pattern worth exploring.
 
-### 📌 Notes
+### Notes
 - This is an independent, exploratory project for learning and curiosity.
 - I’m not a professional statistician — this hasn’t been peer-reviewed or professionally audited.
 - All data is public and sourced from Wikipedia match listings.
