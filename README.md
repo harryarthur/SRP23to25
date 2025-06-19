@@ -2,8 +2,10 @@
 
 This Jupyter Notebook investigates whether **referee nationality** can be used to predict **match outcomes** in Super Rugby Pacific across the 2023, 2024, and 2025 seasons.
 
-**Main question:**  
+**Main questions:**  
 *Can referee nationality help predict match outcomes in Super Rugby?*
+and
+*How did Australian sides do in Super Rugby 2025?*
 
 ### What’s inside
 The analysis covers:
